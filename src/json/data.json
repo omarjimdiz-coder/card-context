@@ -1,0 +1,22 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "item_name": "La fiesta del chivo",
+            "short_description": "Libro de Vargas Llosa",
+            "quantity": 1,
+            "price_without_tax": 13.33,
+            "tax": 10,
+            "shipping_fee": 1.51
+        },
+        {
+            "id": 2,
+            "item_name": "La insoportable levedad del ser",
+            "short_description": "Libro de Milan Kundera",
+            "quantity": 1,
+            "price_without_tax": 15.99,
+            "tax": 10,
+            "shipping_fee": 1.51
+        }
+    ]
+}
